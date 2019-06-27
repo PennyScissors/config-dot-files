@@ -1,0 +1,11 @@
+set autoindent
+set cindent
+set expandtab
+set tabstop=4
+set softtabstop=4
+set shiftwidth=4
+set textwidth=100
+set visualbell
+set backspace=indent,eol,start
+syntax on
+colorscheme zellner
