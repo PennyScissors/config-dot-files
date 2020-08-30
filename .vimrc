@@ -8,5 +8,6 @@ set textwidth=100
 set visualbell
 set backspace=indent,eol,start
 set number
+set clipboard=unnamed
 syntax on
 colorscheme zellner
